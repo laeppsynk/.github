@@ -1,3 +1,3 @@
-# laeppsynk
+# Läppsync 
 
 Druskus' repository swamp
